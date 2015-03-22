@@ -1,0 +1,46 @@
+path {
+    fill-opacity:0;
+}
+
+.shoreline {
+    fill:lightblue;
+    fill-opacity:0;
+    stroke:lightblue;
+}
+
+.street {
+    fill:lightsteelblue;
+    stroke:lightsteelblue;
+}
+
+.park {
+    fill:green;
+    stroke:green;
+    fill-opacity:0.7;
+}
+
+.waterbody {
+    fill:lightblue;
+    fill-opacity:0.5;
+    stroke:blue;
+}
+
+.contour-100{
+    stroke:orange;
+}
+
+.stream {
+    fill:blue;
+    fill-opacity:0.9;
+    stroke:blue;
+}
+
+.tree {
+    fill:green;
+    fill-opacity:1;
+    stroke:brown;
+}
+
+.PUG {
+    stroke:none;
+}
